@@ -8,6 +8,7 @@
 |NOME|CARGO|E-MAIL|
 |:---|:---|:---|
 |Yan Fernando Lobato|Gerente de Projeto|yanlobato84@gmail.com|
+|Mateus Orocondo Lopes Aguirre|Mestre do Universo|Mateusorcondo78@gmail.com|
 
 # Sumário
 
