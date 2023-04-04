@@ -1,6 +1,6 @@
 <img src='/img/logo.png' alt='logo da empresa' width='150px' heidth='150px'/>
 
-# *FIBONACCI MANAGEMENT SYSTEM*
+# MoreTech
 
 # PROJETO DE SOFTWARE
 
@@ -8,7 +8,7 @@
 |NOME|CARGO|E-MAIL|
 |:---|:---|:---|
 |Yan Fernando Lobato|Gerente de Projeto|yanlobato84@gmail.com|
-|Mateus Orocondo Lopes Aguirre|Mestre do Universo|Mateusorcondo78@gmail.com|
+|Mateus Orocondo Lopes Aguirre|Desenvolvedor|Mateusorcondo78@gmail.com|
 |Elias Moreira dos Santos|Desenvolvedor|elias.moreiradossantos.28@gmail.com|
 |Eduardo dos Santos Edegar Fernandes|Desenvolvedor|eduardoedegarfernandes@gmail.com|
 |Sidnei Salustiano paulino Junior|Desenvolvedor|juniorsalustianopaulino@gmail.com|
@@ -45,9 +45,9 @@
 # RESUMO DO PROJETO
 | ITEM | DESCRIÇÃO|
 |:---|:---|
-| NOME DO PROJETO | Fibonacci Management System |
+| NOME DO PROJETO |Moretech |
 | GERENTE DO PROJETO | Wagner Ferreira |
-| PRINCIPAL OBJETIVO | Auxiliar o sistema de ensino através de ferramentas síncronas e assíncronas que serão usadas por funcionários e alunos da instituição de ensino. |
+| PRINCIPAL OBJETIVO | vender os melhores produtos,e oferecer atualização do mundo tecnológico ao cliente |
 | BENEFÍCIOS ESPERADOS |* Melhor acompanhamento pedagógico;<br/>* Redução da evasão escolar;<br/>* Aumento do número de matrículas;<br/>* Redução da inadimplência escolar;<br/>* Automatização dos processos financeiross|
 | INÍCIO E TÉRMINO PREVISTOS | 14/03/2023 - 07/12/2023 |
 
