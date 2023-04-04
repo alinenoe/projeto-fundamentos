@@ -11,6 +11,7 @@
 |Mateus Orocondo Lopes Aguirre|Mestre do Universo|Mateusorcondo78@gmail.com|
 |Elias Moreira dos Santos|Desenvolvedor|elias.moreiradossantos.28@gmail.com|
 |Eduardo dos Santos Edegar Fernandes|Desenvolvedor|eduardoedegarfernandes@gmail.com|
+|Sidnei Salustiano paulino Junior|Desenvolvedor|juniorsalustianopaulino@gmail.com|
 
 # Sumário
 
