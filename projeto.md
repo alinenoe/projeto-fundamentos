@@ -12,6 +12,7 @@
 |Elias Moreira dos Santos|Desenvolvedor|elias.moreiradossantos.28@gmail.com|
 |Eduardo dos Santos Edegar Fernandes|Desenvolvedor|eduardoedegarfernandes@gmail.com|
 |Sidnei Salustiano paulino Junior|Desenvolvedor|juniorsalustianopaulino@gmail.com|
+|Janine Rodrigues Schulz|Desenvolvedor|rodrigijanine2@gmail.com|
 
 # Sumário
 
@@ -46,9 +47,9 @@
 | ITEM | DESCRIÇÃO|
 |:---|:---|
 | NOME DO PROJETO |MoreTech |
-| GERENTE DO PROJETO | Wagner Ferreira |
-| PRINCIPAL OBJETIVO | Vender os melhores produtos, e oferecer atualização do mundo tecnológico ao cliente |
-| BENEFÍCIOS ESPERADOS |* Melhor acompanhamento pedagógico;<br/>* Redução da evasão escolar;<br/>* Aumento do número de matrículas;<br/>* Redução da inadimplência escolar;<br/>* Automatização dos processos financeiross|
+| GERENTE DO PROJETO | Yan Fernando Lobato |
+| PRINCIPAL OBJETIVO | Vender os melhores produtos e oferecer atualização do mundo tecnológico ao cliente |
+| BENEFÍCIOS ESPERADOS |* Melhor conforto com periféricos;<br/>* Produtos baratos com ótima qualidade;<br/>* Uma boa experiencia;<br/>* Noticias atualizadas sobre tecnologia|
 | INÍCIO E TÉRMINO PREVISTOS | 14/03/2023 - 07/12/2023 |
 
 [ [INÍCIO](#fibonacci-management-system) ]
@@ -57,11 +58,11 @@
 
 ## PROPÓSITO DESTE DOCUMENTO
 
-Este documento destina-se aos clientes, engenheiros, gerentes e demais stakeholders deste projeto. O propósito deste documento é apresentar a descrição dos serviços e funções que o sistema **_MoreTech_** deve prover, bem como as suas restrições de operação e propriedades gerais, a fim de ilustrar uma descrição detalhada do sistema para um auxílio durante as etapas de análise, projeto e testes. O documento especifica todos os requisitos funcionais e não funcionais do sistema e contém a prototipagem, além de diagramas UML que foram construídos levando-se em conta as funcionalidades identificadas durante a fase de concepção do sistema.
+Este documento destina-se aos clientes, engenheiros, gerentes e demais stakeholders deste projeto. O propósito deste documento é apresentar a descrição dos serviços e funções que o sistema **_MoreTech_** deve prover, bem como as suas restrições de operação e propriedades gerais, a fim de ilustrar uma descrição detalhada do sistema para um auxílio durante as etapas de análise, projeto e testes. O documento especifica todos os requisitos funcionais e não funcionais do sistema e contém a prototipagem.
 
 ## CONCEPÇÃO DO SISTEMA
 
-Esse projeto surgiu nas ferias do primeiro para o segundo ano, com 2 dos nossos 6 desenvolvedores que resolveram fazer um mini site juntos, para treinar uma determinada linguagem de programação, o orientador deu uma atividade para o final do ano e pensamos em dar um passo a frente para o projeto ja que tinhamos parado na metade. Agora com mais conhecimento devemos conseguir mais dos nossos objetivos.
+Esse projeto surgiu nas ferias do primeiro para o segundo ano, com 2 dos nossos 6 desenvolvedores que resolveram fazer um mini site juntos, para treinar uma determinada linguagem de programação, o orientador deu uma atividade para o final do ano e pensamos em dar um passo a frente para o projeto, ja que tinhamos parado na metade. Agora com mais conhecimento devemos conseguir ainda mais nossos objetivos.
 
 
 
