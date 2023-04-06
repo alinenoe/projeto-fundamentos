@@ -82,7 +82,7 @@ Para evitar interpretações incorretas deste documento, algumas convenções e 
 
 ### NO ESCOPO
 
-O projeto consiste na construção de uma ferramenta para todos os amantes de tecnolgia ou até mesmo um mero novato que está chegando agora a conhecer essa área tão extraordinária. Ele visa deixar qualquer pessoa dentro das notícias desse imenso mundo da tecnologia que vem evoluindo rapidamente, sendo que muitas vezes até mesmo nós não coneguimos acompanhar tamanha evolução, mas com nosso projeto garantimos que você não perderá nada e também com a nossa loja o cliente consegue satisfazer suas necessidades com nossa variedades de produtos, como laptops, desktops, periféricos, smartphones e muito mais.
+O projeto consiste na construção de uma ferramenta para todos os amantes de tecnolgia ou até mesmo um mero novato que está chegando agora a conhecer essa área tão extraordinária. Ele visa deixar qualquer pessoa dentro das notícias desse imenso mundo da tecnologia que vem evoluindo rapidamente, sendo que muitas vezes até mesmo nós não conseguimos acompanhar tamanha evolução, mas com nosso projeto garantimos que você não perderá nada e também com a nossa loja o cliente consegue satisfazer suas necessidades com a nossa variedade de produtos, como laptops, desktops, periféricos, smartphones e muito mais.
 
 ### FORA DO ESCOPO
 
