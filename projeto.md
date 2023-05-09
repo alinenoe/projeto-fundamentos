@@ -87,9 +87,11 @@ O projeto consiste na construção de uma ferramenta para todos os amantes de te
 ### FORA DO ESCOPO
 
 Não fazem parte do escopo do projeto:
-* Instalação e configuração do ambiente tecnológico do cliente;
-* Treinamento de instalação, configuração, administração e  utilização do sistema;
-* Integração com quaisquer sistemas ou base de dados do ambiente tecnológico do cliente.
+* Contato frequente com o usuário;
+* Acessibilidade para deficientes visuais e auditivos;
+* Local de publicidade e anuncios para de divulgação de terceiros;
+* Conteudos divergentes a tecnologia;
+* Disponibilidade de entrega da loja para determinados países e cidades.
 
 ## Usuários do sistema
 |USUÁRIO|DESCRIÇÃO|
