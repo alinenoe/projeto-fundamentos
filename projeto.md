@@ -201,8 +201,17 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 |:---|:---|:---|
-|RNF-001 |Nome do Requisito |Descreva aqui as informações sobre o requisito |
-|RNF-002 |Nome do Requisito |Descreva aqui as informações sobre o segundo requisito |
+|RNF-001|Verificado vendedor|O aplicativo deve verificar os vendedores|
+|RNF-002|Aplicação Responsiva| O aplicativo deve ser responsivo a determinados aparelhos conectados|
+|RNF-003|Visualização bem legível|O aplicativo dele conter uma boa visualização de navegação| 
+|RNF-004|Abrir em menos de 5 segundos|Não deixar o usuário esperar muito tempo|
+|RNF-005|Não consumir muito espaço no computador|O aplicativo deve ter bem otimizado para uso|
+|RNF-006|Privacidade de dados pessoais|Deve manter as informações do usuário e dados pessoais em anonimato|
+|RNF-007| Estalabilidade|deve não ocorrer travamentos|
+|RNF-008| Aplicativo seguro|O aplicativo deve ser seguro para o usuário fazer tranzações|
+|RNF-009|Vendedor confiável|Deve conter vendedores confiaveis|
+|RNF-010|Transações rápidas|O aplicativo deve conter transações rápidas e seguras|
+
 
 
 [ [INÍCIO](#fibonacci-management-system) ]
