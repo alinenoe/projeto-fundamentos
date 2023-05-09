@@ -184,6 +184,16 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RF-001 |Tela de cadastro | Oaplicativo deve conter uma tela de cadastro para o usuário colocar as seguintes informações: nome completo, E-mail,  numero de telefone e CPF.| 
 |RF-002 | Carrinho de compra. |permitir o cliente adicionar produtos em um carrinho de compra virtual, visualize a quantidade e o valor do produto.|
 |RF-003 | Cancelar pedido |permitir o cliente cancelar uma futura compra|
+|RF-004 | Opções de pagamento |facilitar o sistema de pagamento oferecendo varias forma de pagamento, como cartão de crédito, débito, paypal  e etc.|
+|RF-005 | Visualizar informações do produto |permitir visualização de informações do produto, bem como imagens, descrição, e funcionalidades.|
+|RF-006| Buscar produtos |permitir o usuário buscar o produto que deseja com palavras chaves.|
+|RF-007| Postar noticias |permitir certos usuários postarem noticias  do mundo tecnológico.|
+|RF-008| Opção de comentarios |permitir o usuário compartilhar noticias e opiniões.|
+|RF-009|Visualizar estoque  |Emitir relatório da quantidade dos produtos que estão disponíveis |
+
+
+
+|
 
 
 ## Requisitos Não Funcionais
