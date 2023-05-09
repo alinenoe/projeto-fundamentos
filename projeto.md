@@ -179,8 +179,9 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 :---|:---|:---|
-|RF-001 |Nome do Requisito | Descreva aqui as informações sobre o requisito |
-|RF-002 | Nome do Requisito | Descreva aqui as informações sobre o segundo requisito |
+|RF-001 |Tela de cadastro | Oaplicativo deve conter uma tela de cadastro para o usuário colocar as seguintes informações: nome completo, E-mail,  numero de telefone e CPF.| 
+|RF-002 | Carrinho de compra. |permitir o cliente adicionar produtos em um carrinho de compra virtual, visualize a quantidade e o valor do produto.|
+|RF-003 | Cancelar pedido |permitir o cliente cancelar uma futura compra|
 
 
 ## Requisitos Não Funcionais
