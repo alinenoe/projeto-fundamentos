@@ -189,13 +189,20 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RF-006| Buscar produtos |permitir o usuário buscar o produto que deseja com palavras chaves.|
 |RF-007| Postar noticias |permitir certos usuários postarem noticias  do mundo tecnológico.|
 |RF-008| Opção de comentarios |permitir o usuário compartilhar noticias e opiniões.|
-|RF-009|Visualizar estoque  |Emitir relatório da quantidade dos produtos que estão disponíveis |
-
-
-
+|RF-009|Visualizar estoque |Emitir relatório da quantidade dos produtos que estão disponíveis
+|RF-010|notificador o cliente|o sistema deve notificar o cliente ao ser atualizado e quando novas notícias|
+|RF-011| colocar imagens do produto| permitir ao vendedor colocar imagens do seu produto, para maior confiança do cliente|
+|RF-012| permitindo ao cliente escolher o local de entrega| disponipizar uma aba para serem colocadas informações do local de entrega.
+|RF-013| enviar rastreamento| oferecendo sistema de rastreamento para cliente receber atualização do seu produto|
+|RF-014| Calcular o valor total da compra|calcular os itens que estão no carrinho do cliente|
 |
+|RF-015| menu adicionar | o sistema deve ter um menu que siga recomendações de produtos e notícias para o usuário, de acordo com suas movimentações|
+|RF-015| Tela inicial | O sistema deve apresentar uma tela inicial, exibindo as opções do site
 
-
+|RF-017| Tela de ajuda | a tela inicial deve apresentar uma opção de ajuda para o usuário|
+|RF-018| opção de falar com o suporte| na tela de ajuda possibilitar ao cliente falar com o suporte|
+|RF-019| A tela de ajuda deve conter perguntas frequentes | ter um painel com respostas de perguntas frequentes|
+|RF-020| recuperação de senhas  | real de cadastro deve ter uma opção de recuperar senha, através do dados cadastrados|
 ## Requisitos Não Funcionais
 A tabela a seguir contém a relação com os Requisitos Não Funcionais identificados, contendo identificador, nome, descrição e prioridade:
 
