@@ -226,7 +226,8 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 [Protótipo criado no FIGMA em 2022 por estudantes](https://www.figma.com/file/iNC7wyX9zP7Kmn3BhiCFGf/Fals6Hood-(Prot%C3%B3tipo-criado-por-estudantes-em-2022)?node-id=0%3A1&t=B16hgeZP3MSURCCa-1)
 
-![Imagem do Protótipo](/img/home.png)
+![Imagem do Protótipo](![image](https://github.com/YanLob/projeto-fundamentos/assets/127433119/fa582806-fe45-4730-ad28-aaf9b84768f0)
+)
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
