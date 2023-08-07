@@ -235,7 +235,7 @@ https://www.figma.com/file/FwQ2dFRINnI8tQhk4Du9en/Untitled?type=design&node-id=0
 # Diagrama de Casos de Uso
 
 
-![Diagrama de Casos de Uso](/img/use_case_placas.png)
+![Diagrama de Casos de Uso](/img/caso.png)
 
 ## Descrição / Especificação dos Casos de Uso
 
