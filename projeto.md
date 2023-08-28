@@ -273,8 +273,8 @@ https://www.figma.com/file/FwQ2dFRINnI8tQhk4Du9en/Untitled?type=design&node-id=0
 [ [INÍCIO](#fibonacci-management-system) ]
 
 # Diagrama de Classes
-
-[ [INÍCIO](#fibonacci-management-system) ]
+![Diagrama de Classes](/img/Class Diagram0.png)
+[ [INÍCIO]]
 
 # Diagrama de Sequências
 
