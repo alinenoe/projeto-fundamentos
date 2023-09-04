@@ -161,7 +161,8 @@ Foi realizada uma análise de custo-benefício, e, mesmo com estimativas conserv
 
 ## Viabilidade Organizacional
 
-Do ponto de vista organizacional, este projeto apresenta baixo risco. Os diretores e coordenadores da instituição demonstram forte interesse no projeto. Espera-se que os professores e alunos aprovem a implantação do sistema, visto que atualmente a escola não possui uma ferramenta específica para o controle das informações, o que está provocando enormes transtornos para a instituição.
+Do ponto de vista organizacional o software foi feito para ser intuitivo para adesão de novos clientes, para o facilitamento de compras e a viabilidade sobre o mundo tecnológico. De modo geral o nosso público alvo está acostumado a usar sites para compras de produtos  de informática, porém acreditamos que nosso site poderá ser atrativo para o nosso público por ser focado somente no mundo da informática, tendo análises críticas feitas por profissionais da área. Em resumo, a aplicação será aceita pelos nossos futuros clientes por ser algo novo e especializado na área.
+
 
 
 [ [INÍCIO](#fibonacci-management-system) ]
