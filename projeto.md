@@ -8,7 +8,7 @@
 |NOME|CARGO|E-MAIL|
 |:---|:---|:---|
 |Yan Fernando Lobato|Gerente de Projeto|yanlobato84@gmail.com|
-|Mateus Orocondo Lopes Aguirre|Desenvolvedor|Mateusorcondo78@gmail.com|
+|Mateus Orocondo Lopes Aguirre|Desenvolvedor|Mateusorocondo78@gmail.com|
 |Elias Moreira dos Santos|Desenvolvedor|elias.moreiradossantos.28@gmail.com|
 |Eduardo dos Santos Edegar Fernandes|Desenvolvedor|eduardoedegarfernandes@gmail.com|
 |Sidnei Salustiano paulino Junior|Desenvolvedor|juniorsalustianopaulino@gmail.com|
