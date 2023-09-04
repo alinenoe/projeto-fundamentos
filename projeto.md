@@ -157,7 +157,10 @@ Os colaboradores da empresa contratante possuem bastante experiência com aplica
 
 ## Viabilidade Econômica
 
-Foi realizada uma análise de custo-benefício, e, mesmo com estimativas conservadoras do retorno sobre o investimento e dos benefícios totais, este projeto é viável economicamente. Após a implantação, espera-se uma melhoria na qualidade dos serviços prestados e aumento da capacidade de vagas da unidade escolar.
+O site é Viável do ponto de vista econômico custando na contratação de desenvolvedores e designer em torno de R$ 30.000, mas com os
+funcionarios do projeto que iram tratar da manutênção do site e outros com os updates, os funcionarios da manutênção vão fazer
+atualizações de 4 em 4 meses, custará em média de R$ 12.000/ano. Para sustentar esse valor será cobrado do vendedor uma taxa de 8% por
+venda e a sua hospedagem no site com o valor de R$ 89.99/mês.
 
 ## Viabilidade Organizacional
 
