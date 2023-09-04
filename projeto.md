@@ -171,6 +171,8 @@ Do ponto de vista organizacional o software foi feito para ser intuitivo para ad
 [ [INÍCIO](#fibonacci-management-system) ]
 
 # Metodologia Adotada no Desenvolvimento
+Para a construção desse software usaremos o scrum. O scrum foi escolhido por ser uma metodologia mais flexível, visando que poderemos sofrer mudanças no que se trata a venda de produtos, permitindo rapidamente a ajustar ao nosso objetivo. O segundo ponto é que essa metodologia está fortemente ligada ao trabalho em equipe e uma grande comunicação entre os setores, facilitando o entendimento necessário para a aplicação do software, já que que será usado a abordagem incremental será vantajoso a entregas de pequenas partes da loja virtual sendo testado e avaliado pelos nossos proprietários. Mais um ponto para a escolha do scrum é o gerenciamento de risco pelas avaliações dos sprints, após feita a revisão e identificando os erros, o projeto pode ser maior preparado após concluído. 
+
 
 
 [ [INÍCIO](#fibonacci-management-system) ]
