@@ -247,27 +247,26 @@ https://www.figma.com/file/FwQ2dFRINnI8tQhk4Du9en/Untitled?type=design&node-id=0
 
 ### UC-01 - Cadastrar Professor
 
-|UC-01 - Cadastrar Professor|           
-|:---|
-|**Descrição/Objetivo:** Permite a inclusão de novos professores no Sistema|
-|**Atores: Administrador**|
-|**Pré-condições:** O usuário precisa estar cadastrado e logado|
-|**Pós-condições:** Será apresentada uma mensagem confirmando a realização do cadastro|
-|**FLUXO PRINCIPAL / BÁSICO:**|
-|1. O usuário seleciona a opção cadastrar professor|
-|2. Os dados do professor são inseridos|
-|3. O usuário clica em salvar|
-|4. Um novo ID é gerado |
-|5. É apresentada uma mensagem confirmando a realização do cadastro|
-|**FLUXOS ALTERNATIVOS / EXCESSÕES:** |
-|**A1: Campo obrigatório não preenchido** |
-|1. Uma mensagem será apresentada para o usuário, informando que existe(m) campos obrigatórios que não foram preenchidos |
-|2. O cursor será posicionado no primeiro campo obrigatório que não foi preenchido |
-|**A2: Data de nascimento inválida** |
-|1. Uma mensagem será apresentada para o usuário, informando que a data informáda não é válida|
-|2. O cursor será posicionado para o campo data|
-
-
+|UC-01 - Manter noticias|   
+|UC-02 - Verificar estoque| 
+|UC-03 - Manter clientes| 
+|UC-04 - Selecionar cliente| 
+|UC-04 - Manter produto| 
+|UC-05 - Adicionar item| 
+|UC-06 - Remover item| 
+|UC-07 - Adicionar desconto| 
+|UC-08 - Fazer pedido|
+|UC-09 - Cancelar Pedidos|
+|UC-10 -  Incluir informações de entrega|
+|UC-11 - Selecionar forma de pagamento|
+|UC-13 - Vizualizar pedido|
+|UC-14 - Vizualizar informações de entrega|
+|UC-15 - Cadastrar usuario|
+|UC-16 - Compartilhar noticia|
+|UC-17 - Vizualizar noticias|
+|UC-18 - Comentar noticia|
+|UC-19 - Alterar informações de cadastro|
+ 
 ## Matriz de Rastreabilidade
 
 
