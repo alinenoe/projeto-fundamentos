@@ -247,25 +247,25 @@ https://www.figma.com/file/FwQ2dFRINnI8tQhk4Du9en/Untitled?type=design&node-id=0
 
 ### UC-01 - Cadastrar Professor
 
-|UC-01 - Manter noticias|   
-|UC-02 - Verificar estoque| 
-|UC-03 - Manter clientes| 
-|UC-04 - Selecionar cliente| 
-|UC-04 - Manter produto| 
-|UC-05 - Adicionar item| 
-|UC-06 - Remover item| 
-|UC-07 - Adicionar desconto| 
-|UC-08 - Fazer pedido|
-|UC-09 - Cancelar Pedidos|
-|UC-10 -  Incluir informações de entrega|
-|UC-11 - Selecionar forma de pagamento|
-|UC-13 - Vizualizar pedido|
-|UC-14 - Vizualizar informações de entrega|
-|UC-15 - Cadastrar usuario|
-|UC-16 - Compartilhar noticia|
-|UC-17 - Vizualizar noticias|
-|UC-18 - Comentar noticia|
-|UC-19 - Alterar informações de cadastro|
+### UC-01 - Manter noticias  
+### UC-02 - Verificar estoque 
+### UC-03 - Manter clientes 
+### UC-04 - Selecionar cliente 
+### UC-04 - Manter produto 
+### UC-05 - Adicionar item
+### UC-06 - Remover item 
+### UC-07 - Adicionar desconto 
+### UC-08 - Fazer pedido
+### UC-09 - Cancelar Pedidos
+### UC-10 - Incluir informações de entrega
+### UC-11 - Selecionar forma de pagamento
+### UC-13 - Vizualizar pedido
+### UC-14 - Vizualizar informações de entrega
+### UC-15 - Cadastrar usuario
+### UC-16 - Compartilhar noticia
+### UC-17 - Vizualizar noticias
+### UC-18 - Comentar noticia
+### UC-19 - Alterar informações de cadastro
  
 ## Matriz de Rastreabilidade
 
