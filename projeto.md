@@ -153,14 +153,14 @@ Os usuários devem utilizar um computador com a seguinte configuração mínima:
 Uma vez definidos a necessidade para o sistema e seus requisitos de negócio, é possível compreender melhor o projeto do sistema proposto para elaborar o estudo de viabilidade com os seguintes destaques:
 
 ## Viabilidade Técnica
-Para a MoreTech, que vende eletrônicos e tem um site de notícias sobre tecnologia, é importante pensar em algumas coisas práticas. Para vender online, eles precisam de um site que funcione bem e seja seguro, e também de pessoas que saibam como vender pela internet. Eles devem cuidar do estoque e proteger os dados dos clientes. Quanto ao site de notícias, é bom ter um site que permita publicar notícias com facilidade, com textos, fotos e talvez vídeos. É importante ter gente que entenda de tecnologia para escrever as notícias. Para ganhar dinheiro, eles podem usar anúncios ou assinaturas. E é sempre bom ficar de olho para ver como o site está se saindo. Investir do jeito certo em tecnologia, segurança e gerenciamento é fundamental para ter sucesso nas vendas online e nas notícias de tecnologia.
+Para a MoreTech, que vende eletrônicos e tem um site de notícias sobre tecnologia, é importante pensar em algumas coisas práticas. Para vender online, eles precisam de um site que funcione bem e seja seguro, e também de pessoas que saibam como vender pela internet. Eles devem cuidar do estoque e proteger os dados dos clientes. Quanto ao site de notícias, é bom ter um site que permita publicar notícias com facilidade, com textos, fotos e talvez vídeos. É importante ter gente que entenda de tecnologia para escrever as notícias. E é sempre bom ficar de olho para ver como o site está se saindo. Investir do jeito certo em tecnologia, segurança e gerenciamento é fundamental para ter sucesso nas vendas online e nas notícias de tecnologia.
 
 ## Viabilidade Econômica
 
 O site é Viável do ponto de vista econômico custando na contratação de desenvolvedores e designer em torno de R$ 30.000, mas com os
 funcionarios do projeto que iram tratar da manutênção do site e outros com os updates, os funcionarios da manutênção vão fazer
 atualizações de 4 em 4 meses, custará em média de R$ 12.000/ano. Para sustentar esse valor será cobrado do vendedor uma taxa de 8% por
-venda e a sua hospedagem no site com o valor de R$ 89.99/mês.
+venda e a sua hospedagem no site com o valor de R$ 89.99/mês. Para ganhar dinheiro, eles podem usar anúncios ou assinaturas. Investir do jeito certo em tecnologia, segurança e gerenciamento é fundamental para ter sucesso nas vendas online e nas notícias de tecnologia.
 
 ## Viabilidade Organizacional
 
