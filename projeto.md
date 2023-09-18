@@ -270,7 +270,7 @@ https://www.figma.com/file/FwQ2dFRINnI8tQhk4Du9en/Untitled?type=design&node-id=0
 ## Matriz de Rastreabilidade
 
 
-| REQUISITO |UC-01|UC-02|UC-03|UC-04|UC-05|UC-06|UC-07|UC-08|UC-09|UC-10|UC-02|UC-03|UC-04|UC-05|UC-06|UC-07|UC-08|UC-09| UC-10|  
+| REQUISITO |UC-01|UC-02|UC-03|UC-04|UC-05|UC-06|UC-07|UC-08|UC-09|UC-10|UC-12|UC-13|UC-14|UC-15|UC-16|UC-17|UC-18|UC-19|  
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |RF-001|X| | | | | | | | | | | | | | | | | | |
 |RF-002| |X| |X| | | | | | | | | | | | | | | |
