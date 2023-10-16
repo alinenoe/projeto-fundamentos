@@ -13,6 +13,7 @@
 |Eduardo dos Santos Edegar Fernandes|Desenvolvedor|eduardoedegarfernandes@gmail.com|
 |Sidnei Salustiano paulino Junior|Desenvolvedor|juniorsalustianopaulino@gmail.com|
 |Janine Rodrigues Schulz|Desenvolvedor|rodrigijanine2@gmail.com|
+|Aline Noemerg Grey|Desenvolvedor|noemerggrey@gmail.com|
 
 # Sumário
 
